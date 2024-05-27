@@ -1,0 +1,230 @@
+.link-about7,
+.link-destinations7,
+.link-what7 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+}
+.link-destinations7 {
+  width: 100.8px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.link-about7,
+.link-what7 {
+  display: inline-block;
+}
+.link-what7 {
+  flex: 1;
+  min-width: 83px;
+}
+.link-about7 {
+  min-width: 72.6px;
+}
+.link-help7 {
+  display: inline-block;
+  min-width: 92.6px;
+}
+.link-become4,
+.link-download4,
+.link-help7 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.link-download4 {
+  width: 118.7px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.link-become4 {
+  flex: 1;
+  display: inline-block;
+  min-width: 85px;
+}
+.navigation-links1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31.7px;
+}
+.footer-top,
+.links-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.links-container {
+  width: 802.4px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+}
+.footer-top {
+  width: 1168.3px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.separator2 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.all-rights-reserved2 {
+  flex: 1;
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 78px;
+}
+.link-privacy2 {
+  color: inherit;
+  display: inline-block;
+  min-width: 81.4px;
+}
+.button-cookie2,
+.link-privacy2,
+.link-terms2 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 18px;
+}
+.link-terms2 {
+  display: inline-block;
+  min-width: 98.8px;
+}
+.button-cookie2 {
+  width: 115.6px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 115.6px;
+}
+.legal,
+.rights {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.legal {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 23.7px;
+}
+.rights {
+  width: 541.9px;
+  flex-direction: column;
+  padding: 15.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.link-picture-applesvg2,
+.link-picture-googlesvg2 {
+  align-self: stretch;
+  width: 143px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 49px;
+}
+.link-picture-googlesvg2 {
+  width: 162px;
+}
+.app-icons,
+.copyright {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.copyright {
+  align-self: stretch;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.footer-wrapper,
+.footer4,
+.separator-container {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.separator-container {
+  width: 1168px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  font-size: 12px;
+  color: #6c6d75;
+}
+.footer-wrapper,
+.footer4 {
+  box-sizing: border-box;
+}
+.footer4 {
+  flex: 1;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: center;
+  padding: 37.8px 20px 48px 21px;
+  gap: 36.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.footer-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 238px;
+}
+@media screen and (max-width: 1125px) {
+  .copyright,
+  .footer-top {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .legal,
+  .navigation-links1 {
+    flex-wrap: wrap;
+  }
+  .separator-container {
+    gap: 16px;
+  }
+  .footer4 {
+    gap: 18px;
+  }
+  .footer-wrapper {
+    padding-bottom: 155px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .navigation-links1 {
+    gap: 16px;
+  }
+}

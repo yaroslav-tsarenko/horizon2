@@ -1,0 +1,403 @@
+.horizon2,
+.image-6-layerstyle-icon2 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.image-6-layerstyle-icon2 {
+  height: 64.3px;
+  width: 69.9px;
+}
+.horizon2 {
+  margin-bottom: -8.400000000000546px;
+  text-decoration: none;
+  flex: 1;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.horizon-frame {
+  align-self: stretch;
+  height: 29.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.frame-parent2,
+.sim2 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.sim2 {
+  text-decoration: none;
+  position: relative;
+  font-size: 14.1px;
+  font-weight: 500;
+  color: #929292;
+  display: inline-block;
+  min-width: 28.5px;
+  white-space: nowrap;
+}
+.frame-parent2 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame-parent2,
+.frame-wrapper2,
+.image-6-layerstyle-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper2 {
+  flex: 1;
+  flex-direction: column;
+  padding: 7.1px 0 0;
+}
+.image-6-layerstyle-group {
+  width: 216px;
+  flex-direction: row;
+  gap: 13.9px;
+}
+.link-destinations2 {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 88.3px;
+}
+.link-what2 {
+  flex: 1;
+}
+.link-about2,
+.link-help2,
+.link-what2 {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.link-about2 {
+  display: inline-block;
+  min-width: 68px;
+}
+.link-help2 {
+  width: 88px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.destinations-link-container,
+.destinations-link1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.destinations-link1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+}
+.destinations-link-container {
+  flex: 1;
+  flex-direction: column;
+  padding: 13.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button-download-app1 {
+  height: 48px;
+  width: 176.3px;
+}
+.frame-parent3,
+.header,
+.header-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.header,
+.header-inner {
+  box-sizing: border-box;
+}
+.header-inner {
+  width: 647.6px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+.header {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 20px 7.7px;
+  gap: 304px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 28.8px;
+  color: #ef420e;
+  font-family: "ABC Ginto Nord Trial";
+}
+.header-parent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.checkout-inner,
+.frame-form,
+.header-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-form {
+  margin: 0;
+  width: 1536px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.checkout-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.horizon3,
+.image-6-layerstyle-icon3 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.image-6-layerstyle-icon3 {
+  height: 64.3px;
+  width: 69.9px;
+}
+.horizon3 {
+  margin-bottom: -8.400000000000091px;
+  flex: 1;
+  font-weight: 500;
+}
+.horizon-wrapper1 {
+  align-self: stretch;
+  height: 29.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.frame-parent4,
+.sim3 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.sim3 {
+  position: relative;
+  font-size: 14.1px;
+  font-weight: 500;
+  color: #929292;
+  display: inline-block;
+  min-width: 28.5px;
+  z-index: 1;
+}
+.frame-parent4 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame-parent4,
+.frame-wrapper3,
+.image-6-layerstyle-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper3 {
+  flex: 1;
+  flex-direction: column;
+  padding: 7.1px 0 0;
+}
+.image-6-layerstyle-container {
+  width: 216px;
+  flex-direction: row;
+  gap: 13.9px;
+}
+.link-about3,
+.link-destinations3,
+.link-what3 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+}
+.link-destinations3 {
+  width: 100.8px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.link-about3,
+.link-what3 {
+  display: inline-block;
+}
+.link-what3 {
+  flex: 1;
+  min-width: 83px;
+}
+.link-about3 {
+  min-width: 72.6px;
+}
+.link-help3 {
+  display: inline-block;
+  min-width: 92.6px;
+}
+.link-become1,
+.link-download1,
+.link-help3 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.link-download1 {
+  width: 118.7px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.link-become1 {
+  flex: 1;
+  display: inline-block;
+  min-width: 85px;
+}
+.social-link-buttons,
+.social-link-buttons-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.social-link-buttons {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 31.6px;
+}
+.social-link-buttons-wrapper {
+  width: 802.3px;
+  flex-direction: column;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.footer-content-container {
+  width: 1168.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.checkout,
+.footer1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: #fff;
+  align-items: center;
+  padding: 37.8px 20px 48px 21px;
+  box-sizing: border-box;
+  gap: 36.5px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28.8px;
+  color: #ef420e;
+  font-family: "ABC Ginto Nord Trial";
+}
+.checkout {
+  width: 100%;
+  position: relative;
+  background-color: #fbfaf9;
+  overflow: hidden;
+  align-items: flex-start;
+  gap: 80px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .header {
+    gap: 152px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .destinations-link1 {
+    display: none;
+  }
+  .footer-content-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .checkout {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent3 {
+    gap: 18px;
+  }
+  .header {
+    gap: 76px;
+  }
+  .social-link-buttons {
+    flex-wrap: wrap;
+  }
+  .footer1 {
+    gap: 18px;
+  }
+  .checkout {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link-what2 {
+    display: none;
+  }
+  .header {
+    gap: 38px;
+  }
+  .horizon3 {
+    font-size: 23px;
+  }
+  .social-link-buttons {
+    gap: 16px;
+  }
+}

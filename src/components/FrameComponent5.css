@@ -1,0 +1,64 @@
+.image-6-layerstyle-icon6 {
+  height: 64.3px;
+  width: 69.9px;
+  position: relative;
+}
+.horizon6 {
+  margin-bottom: -8.400000000000546px;
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.horizon-wrapper4 {
+  align-self: stretch;
+  height: 29.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sim6 {
+  text-decoration: none;
+  position: relative;
+  font-size: 14.1px;
+  font-weight: 500;
+  color: #929292;
+  display: inline-block;
+  min-width: 28.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.logo-wrapper {
+  align-self: stretch;
+  flex-direction: column;
+}
+.header-content,
+.image-6-layerstyle-parent4,
+.logo-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-content {
+  flex: 1;
+  flex-direction: column;
+  padding: 7.1px 0 0;
+}
+.image-6-layerstyle-parent4 {
+  width: 216px;
+  flex-direction: row;
+  gap: 13.9px;
+  text-align: left;
+  font-size: 28.8px;
+  color: #ef420e;
+  font-family: Inter;
+}

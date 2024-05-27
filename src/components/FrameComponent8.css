@@ -1,0 +1,91 @@
+.link130,
+.link131 {
+  height: 84px;
+  flex: 1;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 20px;
+  color: #000;
+  min-width: 280px;
+  max-width: 100%;
+  width: auto;
+}
+.border-icon37 {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  border-radius: 9999px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 36px;
+}
+.algeria {
+  position: relative;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 72px;
+}
+.algeria-wrapper,
+.border-parent34 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.algeria-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.border-parent34 {
+  flex-direction: row;
+  gap: 16px;
+}
+.img-icon40 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.img-wrapper35 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 8px;
+}
+.link-parent34,
+.link132 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.link132 {
+  flex: 1;
+  border-radius: 12px;
+  background-color: #f7f7f8;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 24px;
+  box-sizing: border-box;
+  min-width: 280px;
+  gap: 20px;
+}
+.link-parent34 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23.9px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .algeria {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

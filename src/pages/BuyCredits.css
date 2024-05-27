@@ -1,0 +1,373 @@
+.image-6-layerstyle-icon4 {
+  height: 64.3px;
+  width: 69.9px;
+  position: relative;
+}
+.horizon4 {
+  margin-bottom: -8.400000000000546px;
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.horizon-wrapper2 {
+  align-self: stretch;
+  height: 29.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sim4 {
+  text-decoration: none;
+  position: relative;
+  font-size: 14.1px;
+  font-weight: 500;
+  color: #929292;
+  display: inline-block;
+  min-width: 28.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.frame-parent5 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame-parent5,
+.frame-wrapper4,
+.image-6-layerstyle-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper4 {
+  flex: 1;
+  flex-direction: column;
+  padding: 7.1px 0 0;
+}
+.image-6-layerstyle-parent1 {
+  width: 216px;
+  flex-direction: row;
+  gap: 13.9px;
+}
+.link-destinations4 {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 88.3px;
+}
+.link-what4 {
+  flex: 1;
+}
+.link-about4,
+.link-help4,
+.link-what4 {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.link-about4 {
+  display: inline-block;
+  min-width: 68px;
+}
+.link-help4 {
+  width: 88px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-wrapper5,
+.link-destinations-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-destinations-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+}
+.frame-wrapper5 {
+  flex: 1;
+  flex-direction: column;
+  padding: 13.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button-download-app2 {
+  height: 48px;
+  width: 176.3px;
+}
+.frame-parent6 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.frame-parent6,
+.header-child,
+.header-group,
+.header1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.header-child {
+  width: 647.6px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+  box-sizing: border-box;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+.header-group,
+.header1 {
+  align-self: stretch;
+}
+.header1 {
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 20px 7.7px;
+  box-sizing: border-box;
+  gap: 304px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 28.8px;
+  color: #ef420e;
+  font-family: "ABC Ginto Nord Trial";
+}
+.header-group {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.image-6-layerstyle-icon5 {
+  height: 64.3px;
+  width: 69.9px;
+  position: relative;
+}
+.horizon5 {
+  margin-bottom: -8.399999999999636px;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.footer-brand-name {
+  align-self: stretch;
+  height: 29.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sim5 {
+  position: relative;
+  font-size: 14.1px;
+  font-weight: 500;
+  color: #929292;
+  display: inline-block;
+  min-width: 28.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.footer-brand {
+  align-self: stretch;
+  flex-direction: column;
+}
+.brand,
+.footer-brand,
+.footer-links1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-links1 {
+  flex: 1;
+  flex-direction: column;
+  padding: 7.1px 0 0;
+}
+.brand {
+  width: 216px;
+  flex-direction: row;
+  gap: 13.9px;
+}
+.link-about5,
+.link-destinations5,
+.link-what5 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+}
+.link-destinations5 {
+  width: 100.8px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.link-about5,
+.link-what5 {
+  display: inline-block;
+}
+.link-what5 {
+  flex: 1;
+  min-width: 83px;
+}
+.link-about5 {
+  min-width: 72.6px;
+}
+.link-help5 {
+  display: inline-block;
+  min-width: 92.6px;
+}
+.link-become2,
+.link-download2,
+.link-help5 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.link-download2 {
+  width: 118.7px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.link-become2 {
+  flex: 1;
+  display: inline-block;
+  min-width: 85px;
+}
+.footer-navigation-links {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31.7px;
+}
+.footer-content1,
+.footer-navigation1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.footer-navigation1 {
+  width: 802.4px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.footer-content1 {
+  width: 1168.3px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.buy-credits,
+.footer2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer2 {
+  align-self: stretch;
+  background-color: #fff;
+  align-items: center;
+  padding: 37.8px 20px 48px 21px;
+  box-sizing: border-box;
+  gap: 36.5px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28.8px;
+  color: #ef420e;
+  font-family: "ABC Ginto Nord Trial";
+}
+.buy-credits {
+  width: 100%;
+  position: relative;
+  background-color: #fbfaf9;
+  overflow: hidden;
+  align-items: flex-start;
+  gap: 80px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .header1 {
+    gap: 152px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .link-destinations-parent {
+    display: none;
+  }
+  .footer-content1 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .buy-credits {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent6 {
+    gap: 18px;
+  }
+  .header1 {
+    gap: 76px;
+  }
+  .footer-navigation-links {
+    flex-wrap: wrap;
+  }
+  .footer2 {
+    gap: 18px;
+  }
+  .buy-credits {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link-what4 {
+    display: none;
+  }
+  .header1 {
+    gap: 38px;
+  }
+  .horizon5 {
+    font-size: 23px;
+  }
+  .footer-navigation-links {
+    gap: 16px;
+  }
+}

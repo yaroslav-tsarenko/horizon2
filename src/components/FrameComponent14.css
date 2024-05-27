@@ -1,0 +1,115 @@
+.separator3 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.all-rights-reserved3 {
+  flex: 1;
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 78px;
+}
+.link-privacy3 {
+  color: inherit;
+  display: inline-block;
+  min-width: 81.4px;
+}
+.button-cookie3,
+.link-privacy3,
+.link-terms3 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 18px;
+}
+.link-terms3 {
+  display: inline-block;
+  min-width: 98.8px;
+}
+.button-cookie3 {
+  width: 115.6px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 115.6px;
+}
+.all-rights-reserved-container,
+.frame-wrapper21 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.all-rights-reserved-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 23.7px;
+}
+.frame-wrapper21 {
+  width: 541.9px;
+  flex-direction: column;
+  padding: 15.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.link-picture-applesvg3,
+.link-picture-googlesvg3 {
+  align-self: stretch;
+  width: 143px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 49px;
+}
+.link-picture-googlesvg3 {
+  width: 162px;
+}
+.link-picture-applesvg-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent34,
+.separator-parent1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent34 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.separator-parent1 {
+  width: 1168px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: left;
+  font-size: 12px;
+  color: #6c6d75;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1050px) {
+  .frame-parent34 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .all-rights-reserved-container {
+    flex-wrap: wrap;
+  }
+  .separator-parent1 {
+    gap: 16px;
+  }
+}

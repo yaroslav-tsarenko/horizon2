@@ -1,0 +1,96 @@
+.link137,
+.link138 {
+  height: 84px;
+  flex: 1;
+  min-width: 280px;
+  max-width: 100%;
+}
+.link138 {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 20px;
+  color: #000;
+  width: auto;
+}
+.border-icon40,
+.macao {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.border-icon40 {
+  height: 36px;
+  width: 36px;
+  border-radius: 9999px;
+  overflow: hidden;
+  object-fit: cover;
+  min-height: 36px;
+}
+.macao {
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 69.8px;
+}
+.border-parent37,
+.macao-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.macao-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.border-parent37 {
+  flex-direction: row;
+  gap: 16px;
+}
+.img-icon43 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.img-wrapper38 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 8px;
+}
+.link-parent36,
+.link139 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.link139 {
+  flex: 1;
+  border-radius: 12px;
+  background-color: #f7f7f8;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 24px;
+  box-sizing: border-box;
+  min-width: 280px;
+  gap: 20px;
+}
+.link-parent36 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23.9px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .macao {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

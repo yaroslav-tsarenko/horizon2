@@ -1,0 +1,58 @@
+.img-icon45 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.heading-31 {
+  margin: 0;
+  width: 224.3px;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.cybersecurity-risks-related,
+.unauthorized-sim-card,
+.with-an-esim {
+  display: block;
+}
+.with-an-esim-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+}
+.heading-3-stay-safe-online-parent,
+.img-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-3-stay-safe-online-parent {
+  align-self: stretch;
+  gap: 16.1px;
+}
+.img-group {
+  width: 340.9px;
+  gap: 23.9px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28px;
+  color: #fff;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .heading-31 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .with-an-esim-container {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

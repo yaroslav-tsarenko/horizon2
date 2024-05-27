@@ -1,0 +1,152 @@
+.heading-212,
+.why-saily1 {
+  position: relative;
+  font-weight: 500;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.why-saily1 {
+  width: 108.8px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+}
+.heading-212 {
+  margin: 0;
+  align-self: stretch;
+  font-size: 48px;
+  letter-spacing: -0.5px;
+  line-height: 62.4px;
+  font-family: inherit;
+  color: #fff;
+}
+.why-saily-parent {
+  width: 780px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.3px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.img-icon65 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.heading-311 {
+  margin: 0;
+  width: 148.7px;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.budget1,
+.find-a-data1 {
+  margin: 0;
+}
+.find-a-data-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.heading-3-affordable-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.1px;
+}
+.background14,
+.frame-parent38,
+.img-parent15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.img-parent15 {
+  flex: 1;
+  flex-direction: column;
+  gap: 23.9px;
+  min-width: 266px;
+}
+.background14,
+.frame-parent38 {
+  flex-shrink: 0;
+}
+.frame-parent38 {
+  width: 1150px;
+  flex-direction: row;
+  gap: 45.8px;
+  font-size: 28px;
+  color: #fff;
+}
+.background14 {
+  align-self: stretch;
+  background-color: #000;
+  flex-direction: column;
+  padding: 64px 375px;
+  box-sizing: border-box;
+  gap: 64.7px;
+  text-align: left;
+  font-size: 20px;
+  color: #b1b1b4;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1300px) {
+  .frame-parent38 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .background14 {
+    gap: 32px;
+    padding-left: 187px;
+    padding-right: 187px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .heading-212 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .frame-parent38 {
+    gap: 23px;
+  }
+  .background14 {
+    gap: 16px;
+    padding: 42px 93px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .why-saily1 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .heading-212 {
+    font-size: 29px;
+    line-height: 37px;
+  }
+  .heading-311 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .find-a-data-container1 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

@@ -1,0 +1,132 @@
+.heading-25,
+.safer {
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.safer {
+  width: 52.7px;
+  height: 30px;
+  line-height: 30px;
+}
+.heading-25 {
+  margin: 0;
+  align-self: stretch;
+  height: 62.4px;
+  font-size: 48px;
+  letter-spacing: -0.5px;
+  line-height: 62.4px;
+  font-family: inherit;
+  color: #000;
+}
+.safer-parent {
+  width: 376.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.3px;
+  max-width: 100%;
+}
+.our-privacy-matters {
+  margin: 0;
+  align-self: stretch;
+  height: 120px;
+  position: relative;
+  line-height: 30px;
+  color: #000;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.safety-info,
+.security-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.safety-info {
+  align-self: stretch;
+  gap: 24.6px;
+}
+.security-content {
+  flex: 1;
+  padding: 150.1px 0 0;
+  box-sizing: border-box;
+  min-width: 356px;
+}
+.picture-icon2 {
+  height: 552.5px;
+  flex: 1;
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 359px;
+}
+.security-container,
+.security-container-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.security-container {
+  width: 1169px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 69.4px;
+  debug_commit: bf4bc93;
+}
+.security-container-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 20px;
+  color: #b1b1b4;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1300px) {
+  .security-container {
+    gap: 35px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .heading-25 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .security-container {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .safer {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .heading-25 {
+    font-size: 29px;
+    line-height: 37px;
+  }
+  .our-privacy-matters {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .security-content {
+    padding-top: 98px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .picture-icon2 {
+    min-width: 100%;
+  }
+}

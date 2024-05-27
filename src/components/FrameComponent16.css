@@ -1,0 +1,118 @@
+.picture-icon4 {
+  height: 552.5px;
+  flex: 1;
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 359px;
+}
+.still-looking-for {
+  width: 280.3px;
+  position: relative;
+  line-height: 30px;
+  font-weight: 500;
+  color: #b1b1b4;
+  display: flex;
+  align-items: center;
+}
+.embark-on-a,
+.heading-211 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+}
+.heading-211 {
+  font-size: 48px;
+  letter-spacing: -0.5px;
+  line-height: 62.4px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.embark-on-a {
+  line-height: 30px;
+}
+.button3 {
+  width: 256.3px;
+  height: 48px;
+}
+.frame-wrapper26,
+.still-looking-for-a-data-plan-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.still-looking-for-a-data-plan-parent {
+  align-self: stretch;
+  gap: 24px;
+}
+.frame-wrapper26 {
+  flex: 1;
+  padding: 0 0 125px;
+  box-sizing: border-box;
+  min-width: 353px;
+  min-height: 427px;
+  max-width: 100%;
+}
+.frame-wrapper25,
+.picture-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 100%;
+}
+.picture-parent {
+  width: 1159.5px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 64px;
+}
+.frame-wrapper25 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1300px) {
+  .picture-parent {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .heading-211 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .picture-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .picture-icon4 {
+    min-width: 100%;
+  }
+  .still-looking-for {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .heading-211 {
+    font-size: 29px;
+    line-height: 37px;
+  }
+  .embark-on-a {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .frame-wrapper26 {
+    padding-bottom: 81px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}

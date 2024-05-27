@@ -1,0 +1,329 @@
+.heading-29 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.5px;
+  line-height: 62.4px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.esims-are-great {
+  margin: 0;
+  width: 340.4px;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.heading-2-why-use-an-esim-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24.7px;
+  max-width: 100%;
+  font-size: 48px;
+}
+.img-icon46 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.heading-32 {
+  margin: 0;
+  width: 333.5px;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.an-esim-lets,
+.carrier-and-avoid {
+  display: block;
+}
+.an-esim-lets-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+}
+.heading-3-lower-roaming-char-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.1px;
+  max-width: 100%;
+}
+.img-parent1 {
+  width: 363.8px;
+  gap: 23.9px;
+}
+.frame-parent31,
+.frame-wrapper20,
+.img-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent31 {
+  align-self: stretch;
+  gap: 63px;
+}
+.frame-wrapper20 {
+  flex: 1;
+  padding: 0 0 60px;
+  box-sizing: border-box;
+  min-width: 278px;
+  min-height: 708px;
+}
+.img-icon47 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.heading-33 {
+  margin: 0;
+  width: 223.3px;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.an-esim-lets1,
+.carriers-without-swapping,
+.one-device-you,
+.profiles-or,
+.sim-cards {
+  display: block;
+}
+.an-esim-lets-container1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+}
+.heading-3-multiple-profiles-parent {
+  align-self: stretch;
+  gap: 16.1px;
+}
+.frame-parent32,
+.heading-3-multiple-profiles-parent,
+.img-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.img-parent2 {
+  align-self: stretch;
+  gap: 23.9px;
+}
+.frame-parent32 {
+  width: 367.2px;
+  gap: 32px;
+  min-width: 367.2000000000007px;
+  max-width: 100%;
+  margin-left: -26.3px;
+}
+.frame-parent30 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  min-width: 499px;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.img-icon48 {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+}
+.heading-34 {
+  margin: 0;
+  width: 154.2px;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.if-a-device,
+.sim-card-slot,
+.smaller {
+  display: block;
+}
+.if-a-device-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+}
+.heading-3-less-space-parent,
+.img-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.1px;
+}
+.img-parent3 {
+  padding: 71.9px 0 0;
+  position: relative;
+  gap: 32px;
+}
+.background-inner,
+.background13 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background-inner {
+  width: 365.5px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 60px;
+  min-width: 365.5px;
+  min-height: 526px;
+}
+.background13 {
+  align-self: stretch;
+  background-color: #000;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 63.3px 375px 64px;
+  gap: 33.2px;
+  text-align: left;
+  font-size: 28px;
+  color: #fff;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1525px) {
+  .frame-parent30 {
+    min-width: 100%;
+  }
+  .background-inner {
+    flex: 1;
+  }
+  .background13 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .frame-parent32 {
+    flex: 1;
+    min-width: 100%;
+  }
+  .frame-parent30 {
+    flex-wrap: wrap;
+  }
+  .background-inner {
+    min-width: 100%;
+  }
+  .background13 {
+    padding-left: 187px;
+    padding-right: 187px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .heading-29 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .frame-wrapper20 {
+    padding-bottom: 39px;
+    box-sizing: border-box;
+  }
+  .frame-parent32 {
+    margin-left: 0;
+  }
+  .img-parent3 {
+    padding-top: 47px;
+    box-sizing: border-box;
+  }
+  .background-inner {
+    padding-bottom: 39px;
+    box-sizing: border-box;
+  }
+  .background13 {
+    gap: 17px;
+    padding: 41px 93px 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-29 {
+    font-size: 29px;
+    line-height: 37px;
+  }
+  .esims-are-great {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .heading-32 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .an-esim-lets-container {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .frame-parent31 {
+    gap: 31px;
+  }
+  .heading-33 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .an-esim-lets-container1 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .frame-parent32 {
+    gap: 16px;
+  }
+  .heading-34 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .if-a-device-container {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .img-parent3 {
+    gap: 16px;
+  }
+  .background13 {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

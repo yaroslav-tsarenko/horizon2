@@ -1,0 +1,145 @@
+.link-destinations8 {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 88.3px;
+}
+.link-what8 {
+  flex: 1;
+}
+.link-about8,
+.link-help8,
+.link-what8 {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.link-about8 {
+  display: inline-block;
+  min-width: 68px;
+}
+.link-help8 {
+  width: 88px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-wrapper18,
+.link-destinations-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-destinations-parent4 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-wrapper18 {
+  flex: 1;
+  flex-direction: column;
+  padding: 13.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.download-app1 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.button-download-app3,
+.frame-parent24 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button-download-app3 {
+  width: 176.3px;
+  border-radius: 9999px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  padding: 10px 27px 11px 29px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+  text-align: center;
+  font-size: 16px;
+}
+.frame-parent24 {
+  align-self: stretch;
+  gap: 37px;
+  max-width: 100%;
+}
+.header-inner1,
+.header-wrapper,
+.header3 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.header-inner1 {
+  width: 647.6px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+}
+.header-wrapper,
+.header3 {
+  flex-direction: row;
+}
+.header3 {
+  flex: 1;
+  background-color: #fff;
+  justify-content: center;
+  padding: 8px 20px 7.7px;
+  gap: 304px;
+}
+.header-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 5px;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1200px) {
+  .header3 {
+    gap: 152px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .link-destinations-parent4 {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent24 {
+    gap: 18px;
+  }
+  .header3 {
+    gap: 76px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link-what8 {
+    display: none;
+  }
+  .header3 {
+    gap: 38px;
+  }
+}

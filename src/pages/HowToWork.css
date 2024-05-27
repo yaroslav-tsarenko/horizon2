@@ -1,0 +1,229 @@
+.frame-main,
+.frame-wrapper15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-main {
+  height: 3347.6px;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 2075.5px;
+  gap: 63.8px;
+}
+.image-6-layerstyle-icon5 {
+  height: 64.3px;
+  width: 69.9px;
+  position: relative;
+}
+.horizon5 {
+  margin-bottom: -8.400000000000091px;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.horizon-wrapper3 {
+  align-self: stretch;
+  height: 29.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sim5 {
+  position: relative;
+  font-size: 14.1px;
+  font-weight: 500;
+  color: #929292;
+  display: inline-block;
+  min-width: 28.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.frame-parent23 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame-parent23,
+.frame-wrapper16,
+.image-6-layerstyle-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper16 {
+  flex: 1;
+  flex-direction: column;
+  padding: 7.1px 0 0;
+}
+.image-6-layerstyle-parent3 {
+  width: 216px;
+  flex-direction: row;
+  gap: 13.9px;
+}
+.link-about5,
+.link-destinations5,
+.link-what5 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+}
+.link-destinations5 {
+  width: 100.8px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.link-about5,
+.link-what5 {
+  display: inline-block;
+}
+.link-what5 {
+  flex: 1;
+  min-width: 83px;
+}
+.link-about5 {
+  min-width: 72.6px;
+}
+.link-help5 {
+  display: inline-block;
+  min-width: 92.6px;
+}
+.link-become3,
+.link-download3,
+.link-help5 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.link-download3 {
+  width: 118.7px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.link-become3 {
+  flex: 1;
+  display: inline-block;
+  min-width: 85px;
+}
+.link-destinations-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31.7px;
+}
+.frame-parent22,
+.frame-wrapper17 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper17 {
+  width: 802.4px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.frame-parent22 {
+  width: 1168.3px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.footer3,
+.how-to-work {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.footer3 {
+  align-self: stretch;
+  background-color: #fff;
+  align-items: center;
+  padding: 37.8px 20px 48px 21px;
+  gap: 36.5px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28.8px;
+  color: #ef420e;
+  font-family: Inter;
+}
+.how-to-work {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  align-items: flex-start;
+  padding: 0 0 0.4px;
+  gap: 64.3px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1300px) {
+  .frame-main {
+    padding-bottom: 877px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-main {
+    height: auto;
+    gap: 32px;
+    padding-bottom: 570px;
+    box-sizing: border-box;
+  }
+  .frame-parent22 {
+    flex-wrap: wrap;
+  }
+  .how-to-work {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .frame-main {
+    gap: 16px;
+    padding-bottom: 370px;
+    box-sizing: border-box;
+  }
+  .link-destinations-parent3 {
+    flex-wrap: wrap;
+  }
+  .footer3 {
+    gap: 18px;
+  }
+  .how-to-work {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .horizon5 {
+    font-size: 23px;
+  }
+  .link-destinations-parent3 {
+    gap: 16px;
+  }
+}

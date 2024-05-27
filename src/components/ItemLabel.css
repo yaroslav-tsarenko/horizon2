@@ -1,0 +1,64 @@
+.border5 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  border-radius: 9999px;
+  border: 1px solid #e2e2e4;
+  box-sizing: border-box;
+}
+.days5,
+.gb5 {
+  position: relative;
+  font-weight: 500;
+}
+.gb5 {
+  line-height: 24px;
+  display: inline-block;
+  min-width: 36.4px;
+}
+.days5 {
+  flex: 1;
+  line-height: 21px;
+}
+.days-wrapper3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 7px;
+  font-size: 14px;
+  color: #6c6d75;
+}
+.div9 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 43.9px;
+  white-space: nowrap;
+}
+.gb-parent3,
+.item-label5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gb-parent3 {
+  width: 55.9px;
+  gap: 0.5px;
+}
+.item-label5 {
+  flex: 1;
+  border-radius: 12px;
+  border: 1px solid #e2e2e4;
+  box-sizing: border-box;
+  padding: 15px 17px 16px;
+  gap: 7.5px;
+  min-width: 140px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}

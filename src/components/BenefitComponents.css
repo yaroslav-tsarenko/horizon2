@@ -1,0 +1,62 @@
+.img-icon39 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.heading-3 {
+  margin: 0;
+  width: 148.7px;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.budget,
+.find-a-data {
+  display: block;
+}
+.find-a-data-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.benefit-components,
+.benefit-descriptions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefit-descriptions {
+  align-self: stretch;
+  gap: 16.1px;
+}
+.benefit-components {
+  flex: 1;
+  gap: 23.9px;
+  min-width: 266px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28px;
+  color: #fff;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .heading-3 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .find-a-data-container {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

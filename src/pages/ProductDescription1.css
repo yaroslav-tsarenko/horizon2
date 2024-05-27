@@ -1,0 +1,767 @@
+.border-icon1 {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  margin: 0 !important;
+  top: -128.8px;
+  left: 875.5px;
+  border-radius: 9999px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.img-icon1 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 72.9px);
+  width: 16px;
+  height: 16px;
+}
+.check-compatibility1 {
+  position: absolute;
+  top: 8px;
+  left: calc(50% - 48.9px);
+  line-height: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 122.2px;
+  height: 18px;
+}
+.button1 {
+  width: 195.8px;
+  height: 34px;
+  position: relative;
+  border-radius: 9999px;
+  border: 1px solid #b1b1b4;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  display: none;
+  white-space: nowrap;
+  z-index: 1;
+}
+.image-6-layerstyle-icon4 {
+  height: 64.3px;
+  width: 69.9px;
+  position: relative;
+}
+.horizon4 {
+  margin-bottom: -8.400000000000546px;
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.horizon-frame {
+  align-self: stretch;
+  height: 29.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sim4 {
+  text-decoration: none;
+  position: relative;
+  font-size: 14.1px;
+  font-weight: 500;
+  color: #929292;
+  display: inline-block;
+  min-width: 28.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.frame-parent38 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame-parent38,
+.frame-wrapper10,
+.image-6-layerstyle-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper10 {
+  flex: 1;
+  flex-direction: column;
+  padding: 7.1px 0 0;
+}
+.image-6-layerstyle-container {
+  width: 216px;
+  flex-direction: row;
+  gap: 13.9px;
+}
+.link-destinations4 {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 88.3px;
+}
+.link-what4 {
+  flex: 1;
+}
+.link-about4,
+.link-help4,
+.link-what4 {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.link-about4 {
+  display: inline-block;
+  min-width: 68px;
+}
+.link-help4 {
+  width: 88px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-wrapper11,
+.link-destinations-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-destinations-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+}
+.frame-wrapper11 {
+  flex: 1;
+  flex-direction: column;
+  padding: 13.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button-download-app2 {
+  height: 48px;
+  width: 176.3px;
+}
+.frame-parent39,
+.header-child,
+.header2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent39 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.header-child,
+.header2 {
+  box-sizing: border-box;
+}
+.header-child {
+  width: 647.6px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+.header2 {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 20px 7.7px;
+  gap: 304px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 28.8px;
+  color: #ef420e;
+  font-family: "ABC Ginto Nord Trial";
+}
+.heading-21,
+.heading-22 {
+  position: relative;
+  max-width: 100%;
+}
+.heading-21 {
+  width: 968.8px;
+  height: 125.5px;
+  flex-shrink: 0;
+  display: none;
+  z-index: 4;
+}
+.heading-22 {
+  margin: 0;
+  width: 783.3px;
+  font-size: inherit;
+  letter-spacing: -0.5px;
+  line-height: 62.4px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.img-icon2 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.heading-3 {
+  margin: 0;
+  width: 307.3px;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.activate-your-esim,
+.when-you-land,
+.your-data-will {
+  display: block;
+}
+.activate-your-esim-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.heading-3-connect-in-a-few-t-parent,
+.img-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-3-connect-in-a-few-t-parent {
+  align-self: stretch;
+  gap: 16.1px;
+}
+.img-parent {
+  flex: 1;
+  gap: 23.9px;
+  min-width: 269px;
+  max-width: 100%;
+}
+.img-icon3 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.heading-31 {
+  margin: 0;
+  width: 190.2px;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.choose-from-several,
+.data-plans-for,
+.or-as-little {
+  display: block;
+}
+.choose-from-several-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.heading-3-flexible-plans-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.1px;
+}
+.img-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 23.9px;
+  min-width: 269px;
+}
+.background,
+.background-wrapper,
+.frame-parent40,
+.img-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent40 {
+  width: 1159.5px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 41.1px;
+  font-size: 28px;
+}
+.background,
+.background-wrapper {
+  box-sizing: border-box;
+}
+.background {
+  flex: 1;
+  background-color: #000;
+  flex-direction: column;
+  padding: 63.4px 375px 64px;
+  gap: 64.6px;
+}
+.background-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 34px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: Roboto;
+}
+.for-ukraine,
+.frequently-asked-questions {
+  margin: 0;
+}
+.frequently-asked-questions-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 48px;
+  letter-spacing: -0.5px;
+  line-height: 62.4px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.heading-32 {
+  width: 483.9px;
+  position: relative;
+  line-height: 39.2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 36px);
+}
+.img-icon4 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.img-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 11.5px;
+}
+.backgroundborder {
+  width: 868px;
+  border-radius: 12px;
+  background-color: #f7f7f8;
+  border: 1px solid #f7f7f8;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 31px 33px 32px;
+  gap: 20px;
+  max-width: 100%;
+}
+.heading-33 {
+  width: 578.4px;
+  position: relative;
+  line-height: 39.2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 36px);
+}
+.img-icon5 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.img-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 11.5px;
+}
+.backgroundborder1 {
+  width: 868px;
+  border-radius: 12px;
+  background-color: #f7f7f8;
+  border: 1px solid #f7f7f8;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 31px 33px 32px;
+  gap: 20px;
+  max-width: 100%;
+}
+.heading-34 {
+  width: 543.9px;
+  position: relative;
+  line-height: 39.2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 36px);
+}
+.img-icon6 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.img-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 11.5px;
+}
+.backgroundborder2 {
+  width: 868px;
+  border-radius: 12px;
+  background-color: #f7f7f8;
+  border: 1px solid #f7f7f8;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 31px 33px 32px;
+  gap: 20px;
+  max-width: 100%;
+}
+.frequently-asked-questions-abo-parent {
+  width: 955.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.product-description-child {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 33.6px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 28px;
+  color: #000;
+  font-family: Roboto;
+}
+.image-6-layerstyle-icon5 {
+  height: 64.3px;
+  width: 69.9px;
+  position: relative;
+}
+.horizon5 {
+  margin-bottom: -8.400000000000091px;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.horizon-wrapper1 {
+  align-self: stretch;
+  height: 29.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sim5 {
+  position: relative;
+  font-size: 14.1px;
+  font-weight: 500;
+  color: #929292;
+  display: inline-block;
+  min-width: 28.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.frame-parent42 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame-parent42,
+.frame-wrapper12,
+.image-6-layerstyle-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper12 {
+  flex: 1;
+  flex-direction: column;
+  padding: 7.1px 0 0;
+}
+.image-6-layerstyle-parent1 {
+  width: 216px;
+  flex-direction: row;
+  gap: 13.9px;
+}
+.link-about5,
+.link-destinations5,
+.link-what5 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+}
+.link-destinations5 {
+  width: 100.8px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.link-about5,
+.link-what5 {
+  display: inline-block;
+}
+.link-what5 {
+  flex: 1;
+  min-width: 83px;
+}
+.link-about5 {
+  min-width: 72.6px;
+}
+.link-help5 {
+  display: inline-block;
+  min-width: 92.6px;
+}
+.link-become2,
+.link-download2,
+.link-help5 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.link-download2 {
+  width: 118.7px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.link-become2 {
+  flex: 1;
+  display: inline-block;
+  min-width: 85px;
+}
+.link-destinations-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31.7px;
+}
+.frame-parent41,
+.frame-wrapper13 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper13 {
+  width: 802.4px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.frame-parent41 {
+  width: 1168.3px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.footer2,
+.product-description1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.footer2 {
+  align-self: stretch;
+  background-color: #fff;
+  align-items: center;
+  padding: 37.8px 20px 48px 21px;
+  gap: 36.5px;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: 28.8px;
+  color: #ef420e;
+  font-family: "ABC Ginto Nord Trial";
+}
+.product-description1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  align-items: flex-start;
+  padding: 0 0 0.4px;
+  gap: 47px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 12px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1200px) {
+  .header2 {
+    gap: 152px;
+  }
+  .frame-parent41 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .link-destinations-container {
+    display: none;
+  }
+  .heading-22 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .background {
+    gap: 32px;
+    padding-left: 187px;
+    padding-right: 187px;
+    box-sizing: border-box;
+  }
+  .frequently-asked-questions-container {
+    font-size: 38px;
+    line-height: 50px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent39 {
+    gap: 18px;
+  }
+  .header2 {
+    gap: 76px;
+  }
+  .frame-parent40 {
+    gap: 21px;
+  }
+  .background {
+    gap: 16px;
+    padding: 41px 93px 42px;
+    box-sizing: border-box;
+  }
+  .frequently-asked-questions-abo-parent {
+    gap: 16px;
+  }
+  .link-destinations-parent1 {
+    flex-wrap: wrap;
+  }
+  .footer2 {
+    gap: 18px;
+  }
+  .product-description1 {
+    gap: 23px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link-what4 {
+    display: none;
+  }
+  .header2 {
+    gap: 38px;
+  }
+  .heading-22 {
+    font-size: 29px;
+    line-height: 37px;
+  }
+  .heading-3 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .activate-your-esim-container {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .heading-31 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .choose-from-several-container {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .frequently-asked-questions-container {
+    font-size: 29px;
+    line-height: 37px;
+  }
+  .heading-32,
+  .heading-33,
+  .heading-34 {
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .horizon5 {
+    font-size: 23px;
+  }
+  .link-destinations-parent1 {
+    gap: 16px;
+  }
+}
